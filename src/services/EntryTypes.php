@@ -1,5 +1,5 @@
 <?php
-namespace fortytwostudio\entrytemplates\services;
+namespace dowleydeveloped\entrytemplates\services;
 
 use Craft;
 use craft\events\ConfigEvent;
@@ -8,8 +8,8 @@ use craft\services\Entries;
 use craft\records\EntryType as EntryTypeRecord;
 use craft\records\Section as SectionRecord;
 
-use fortytwostudio\entrytemplates\records\EntryTemplate as EntryTemplateRecord;
-use fortytwostudio\entrytemplates\elements\EntryTemplate as EntryTemplateElement;
+use dowleydeveloped\entrytemplates\records\EntryTemplate as EntryTemplateRecord;
+use dowleydeveloped\entrytemplates\elements\EntryTemplate as EntryTemplateElement;
 
 use yii\base\Component;
 use Throwable;

@@ -1,6 +1,6 @@
 <?php
 
-namespace fortytwostudio\entrytemplates\migrations;
+namespace dowleydeveloped\entrytemplates\migrations;
 
 use Craft;
 use craft\db\Migration;

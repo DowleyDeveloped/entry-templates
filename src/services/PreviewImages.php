@@ -1,11 +1,11 @@
 <?php
-namespace fortytwostudio\entrytemplates\services;
+namespace dowleydeveloped\entrytemplates\services;
 
 use Craft;
 use craft\elements\Asset;
 use craft\helpers\App;
 use craft\helpers\FileHelper;
-use fortytwostudio\entrytemplates\EntryTemplates;
+use dowleydeveloped\entrytemplates\EntryTemplates;
 use yii\base\Component;
 
 class PreviewImages extends Component

@@ -1,13 +1,13 @@
 {
-	"name": "fortytwo-studio/entry-templates",
+	"name": "dowleydeveloped/entry-templates",
 	"description": "Create pre-filled templates which can be selected within entries.",
 	"type": "craft-plugin",
-	"version": "1.4.0",
+	"version": "1.0.0",
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Forty Two studio",
-			"homepage": "https://fortytwo.studio"
+			"name": "Dowley Developed",
+			"homepage": "https://charlottedowley.co.uk"
 		}
 	],
 	"require": {
@@ -15,17 +15,17 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"fortytwostudio\\entrytemplates\\": "src/"
+			"dowleydeveloped\\entrytemplates\\": "src/"
 		}
 	},
 	"extra": {
 		"name": "Entry Templates",
 		"handle": "entrytemplates",
-		"developer": "Forty Two Studio",
-		"developerUrl": "https://fortytwo.studio",
-		"documentationUrl": "https://github.com/fortytwostudio/entry-templates/blob/main/README.md",
-		"changelogUrl": "https://raw.githubusercontent.com/fortytwostudio/entry-templates/main/CHANGELOG.md",
-		"class": "fortytwostudio\\entrytemplates\\EntryTemplates"
+		"developer": "Dowley Developed",
+		"developerUrl": "https://charlottedowley.co.uk",
+		"documentationUrl": "https://github.com/dowleydeveloped/entry-templates/blob/main/README.md",
+		"changelogUrl": "https://raw.githubusercontent.com/dowleydeveloped/entry-templates/main/CHANGELOG.md",
+		"class": "dowleydeveloped\\entrytemplates\\EntryTemplates"
 	},
 	"config": {
 		"allow-plugins": {

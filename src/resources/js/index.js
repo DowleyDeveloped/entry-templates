@@ -66,6 +66,6 @@ Craft.EntryTemplates.TemplateIndex = Craft.BaseElementIndex.extend({
 });
 
 Craft.registerElementIndexClass(
-	"fortytwostudio\\entrytemplates\\elements\\EntryTemplate",
+	"dowleydeveloped\\entrytemplates\\elements\\EntryTemplate",
 	Craft.EntryTemplates.TemplateIndex,
 );

@@ -1,6 +1,6 @@
 <?php
 
-namespace fortytwostudio\entrytemplates\elements\db;
+namespace dowleydeveloped\entrytemplates\elements\db;
 
 use craft\db\Query;
 use craft\elements\db\ElementQuery;

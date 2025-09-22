@@ -1,5 +1,5 @@
 <?php
-namespace fortytwostudio\entrytemplates\elements;
+namespace dowleydeveloped\entrytemplates\elements;
 
 use Craft;
 use craft\base\Element;
@@ -21,12 +21,12 @@ use craft\models\FieldLayout;
 use craft\models\Section;
 use ether\seo\fields\SeoField;
 
-use fortytwostudio\entrytemplates\EntryTemplates;
-use fortytwostudio\entrytemplates\elements\db\EntrySectionQuery;
-use fortytwostudio\entrytemplates\elements\db\EntryTemplateQuery;
-use fortytwostudio\entrytemplates\records\EntryTemplate as EntryTemplateRecord;
+use dowleydeveloped\entrytemplates\EntryTemplates;
+use dowleydeveloped\entrytemplates\elements\db\EntrySectionQuery;
+use dowleydeveloped\entrytemplates\elements\db\EntryTemplateQuery;
+use dowleydeveloped\entrytemplates\records\EntryTemplate as EntryTemplateRecord;
 
-use fortytwostudio\entrytemplates\assetbundles\PreviewImageAsset;
+use dowleydeveloped\entrytemplates\assetbundles\PreviewImageAsset;
 use verbb\supertable\fields\SuperTableField;
 use verbb\supertable\SuperTable;
 use yii\db\Expression;

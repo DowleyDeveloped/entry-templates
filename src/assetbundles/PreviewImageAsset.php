@@ -1,5 +1,5 @@
 <?php
-namespace fortytwostudio\entrytemplates\assetbundles;
+namespace dowleydeveloped\entrytemplates\assetbundles;
 
 use Craft;
 use craft\web\AssetBundle;
@@ -13,7 +13,7 @@ class PreviewImageAsset extends AssetBundle
 
     public function init()
     {
-        $this->sourcePath = "@fortytwostudio/entrytemplates/resources";
+        $this->sourcePath = "@dowleydeveloped/entrytemplates/resources";
 
         // define the dependencies
         $this->depends = [

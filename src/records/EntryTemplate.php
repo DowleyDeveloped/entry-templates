@@ -1,6 +1,6 @@
 <?php
 
-namespace fortytwostudio\entrytemplates\records;
+namespace dowleydeveloped\entrytemplates\records;
 
 use craft\db\ActiveRecord;
 use craft\records\Element;

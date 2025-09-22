@@ -1,5 +1,5 @@
 <?php
-namespace fortytwostudio\entrytemplates;
+namespace dowleydeveloped\entrytemplates;
 
 /* Craft */
 use Craft;
@@ -21,10 +21,10 @@ use craft\web\View;
 use craft\web\UrlManager;
 
 /* Plugin */
-use fortytwostudio\entrytemplates\assetbundles\ModalAsset;
-use fortytwostudio\entrytemplates\elements\EntryTemplate as EntryTemplateElements;
-use fortytwostudio\entrytemplates\services\PreviewImages;
-use fortytwostudio\entrytemplates\services\EntryTypes as EntryTypesService;
+use dowleydeveloped\entrytemplates\assetbundles\ModalAsset;
+use dowleydeveloped\entrytemplates\elements\EntryTemplate as EntryTemplateElements;
+use dowleydeveloped\entrytemplates\services\PreviewImages;
+use dowleydeveloped\entrytemplates\services\EntryTypes as EntryTypesService;
 
 /* Yii */
 use yii\base\Event;
@@ -35,7 +35,7 @@ use Monolog\Formatter\LineFormatter;
 use Psr\Log\LogLevel;
 
 /**
- * @author    Forty Two Studio
+ * @author    Dowley Developed
  * @package   EntryTemplates
  * @since     1.0.0
  *

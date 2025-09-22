@@ -1,7 +1,7 @@
 <?php
-namespace fortytwostudio\entrytemplates\controllers;
+namespace dowleydeveloped\entrytemplates\controllers;
 
-use fortytwostudio\entrytemplates\EntryTemplates;
+use dowleydeveloped\entrytemplates\EntryTemplates;
 
 // Craft
 use Craft;
@@ -21,8 +21,8 @@ use craft\ckeditor\Field as CKEditorField;
 use Illuminate\Support\Collection;
 
 // Plugin
-use fortytwostudio\entrytemplates\assetbundles\TemplateAsset;
-use fortytwostudio\entrytemplates\elements\EntryTemplate as EntryTemplateElements;
+use dowleydeveloped\entrytemplates\assetbundles\TemplateAsset;
+use dowleydeveloped\entrytemplates\elements\EntryTemplate as EntryTemplateElements;
 
 // Yii
 use yii\base\InvalidConfigException;
