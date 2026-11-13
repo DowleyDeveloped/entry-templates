@@ -35,7 +35,7 @@ use Monolog\Formatter\LineFormatter;
 use Psr\Log\LogLevel;
 
 /**
- * @author    Dowley Developed
+ * @author    Forty Two Studio
  * @package   EntryTemplates
  * @since     1.0.0
  *
